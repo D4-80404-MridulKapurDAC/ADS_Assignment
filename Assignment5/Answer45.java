@@ -73,7 +73,7 @@ class BST{
 
 }
 
-public class Assignment4 {
+public class Answer45 {
     public static void main(String[] args) {
         BST tree = new BST();
         tree.addNode(10);
